@@ -10,7 +10,7 @@
 
 ## 相关链接
 
-- 博客文章 PR: https://github.com/rcore-os/blog/pull/???
+- 博客文章 PR: [rcore-os/blog#892](https://github.com/rcore-os/blog/pull/892)
 - 上游主仓库: https://github.com/rcore-os/tgoskits
 - 个人 fork: https://github.com/SongShiQ/tgoskits
 - 项目 PR 列表: #656 #778 #895 #993 #1006 #1033 #1041 #1048 #1234 #1379
