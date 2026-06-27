@@ -8,6 +8,8 @@
 
 **Slide**: [总结汇报Slide.pptx](./总结汇报Slide.pptx)
 
+**Repo与PR清单**: [Repo与PR清单.md](./Repo与PR清单.md) — 评审会查证用，含12个PR汇总表、分支拓扑、可复现演示说明、诚实标注的未验证项
+
 ## 相关链接
 
 - 博客文章 PR: [rcore-os/blog#892](https://github.com/rcore-os/blog/pull/892)
