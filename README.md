@@ -10,6 +10,8 @@
 
 **Repo与PR清单**: [Repo与PR清单.md](./Repo与PR清单.md) — 评审会查证用，含12个PR汇总表、分支拓扑、可复现演示说明、诚实标注的未验证项
 
+**总结汇报稿（完整正文）**: [总结汇报稿.md](./总结汇报稿.md) — 博客提交版本的完整技术报告正文
+
 ## 相关链接
 
 - 博客文章 PR: [rcore-os/blog#892](https://github.com/rcore-os/blog/pull/892)
